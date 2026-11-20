@@ -1,0 +1,1 @@
+Copy risk_model_cold.joblib, risk_model_full.joblib, and model_metadata.json into this folder.
