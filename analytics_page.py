@@ -304,3 +304,4 @@ def render_analytics_page(
         "not a confirmed disease case or outbreak. Counts are "
         "observation counts, not counts of unique stations."
     )
+
